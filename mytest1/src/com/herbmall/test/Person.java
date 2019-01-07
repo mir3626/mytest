@@ -21,7 +21,9 @@ public class Person {
 	}
 	
 	public void showInfo() {
-		System.out.println("Person클래스의 showInfo()메서드 654321 GITHUB MASTER 테스트");
+
+		System.out.println("Person클래스의 showInfo()메서드 98765 GITHUB MASTER 테스트 -complete");
+
 	}
 	
 }
